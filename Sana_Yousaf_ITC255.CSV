@@ -1,0 +1,31 @@
+GENDER,AGE,HEIGHT(cm),SPORTS,LEVEL of SATISFACTION,SALARY,Salary Category
+F,34,169,Yes,Satisfied,356310,Upper middle income
+F,23,164,Yes,Satisfied,313410,Upper middle income
+F,21,155,No,Not satisfied,181860,Low income
+M,26,176,Yes,Not satisfied,369800,Upper middle income
+M,28,156,Yes,Very satisfied,206640,Middle income
+F,30,178,No,Not satisfied,380000,Upper middle-income
+M,20,187,Yes,Not satisfied,175810,Low income
+F,40,166,No,Not satisfied,408360,High income
+M,44,160,Yes,Very satisfied,408320,High income
+M,51,165,Yes,Not satisfied,260030,Middle income
+M,20,170,Yes,Very satisfied,400560,
+M,23,177,No,Very satisfied,304860,
+M,25,171,NO,Satisfied,221370,
+M,29,167,Yes,Satisfied,166000,
+M,31,160,Yes,Very satisfied,307740,
+F,32,189,NO,Not satisfied,129020,
+F,35,185,Yes,Satisfied,199190,
+M,37,173,No,Very satisfied,473460,
+M,39,184,Yes,Very satisfied,293880,
+F,42,180,Yes,Very satisfied,412040,
+F,40,188,No,Not satisfied,483570,
+F,27,177,Yes,Very satisfied,420120,
+M,21,166,No,Satisfied,311580,
+M,22,170,No,Not satisfied,136140,
+M,28,181,Yes,Satisfied,217980,
+M,40,163,Yes,Satisfied,471480,
+F,47,162,No,Satisfied,468640,
+M,45,159,Yes,Not satisfied,143740,
+F,26,159,No,Very satisfied,387000,
+M,27,168,Yes,Very satisfied,498480,
